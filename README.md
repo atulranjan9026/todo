@@ -14,7 +14,7 @@ A simple, responsive To-Do List application built with HTML, CSS, and JavaScript
 
 ## Live Demo
 
-[View Live Demo](https://github.com/atulranjan9026/todo?tab=readme-ov-file)
+[View Live Demo](https://genuine-sprite-3e3662.netlify.app/)
 
 *(Replace with your GitHub Pages link if available)*
 
