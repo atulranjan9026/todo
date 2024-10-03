@@ -14,7 +14,7 @@ A simple, responsive To-Do List application built with HTML, CSS, and JavaScript
 
 ## Live Demo
 
-[View Live Demo](https://your-username.github.io/todo-app/)
+[View Live Demo](https://github.com/atulranjan9026/todo?tab=readme-ov-file)
 
 *(Replace with your GitHub Pages link if available)*
 
